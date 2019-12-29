@@ -46,5 +46,4 @@
     ],
     "cacheDirectory": ".jest/cache"
   }
-  }
 }
